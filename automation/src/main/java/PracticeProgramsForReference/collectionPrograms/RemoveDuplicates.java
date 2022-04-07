@@ -1,4 +1,4 @@
-package collectionPrograms;
+package PracticeProgramsForReference.collectionPrograms;
 
 import java.util.HashSet;
 import java.util.Set;

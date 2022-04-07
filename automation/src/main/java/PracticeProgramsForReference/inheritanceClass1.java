@@ -1,4 +1,4 @@
-package practicePrograms;
+package PracticeProgramsForReference;
 
 public class inheritanceClass1 {
     public void inherit(){

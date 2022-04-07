@@ -1,4 +1,4 @@
-package practicePrograms;
+package PracticeProgramsForReference;
 
 public class examplePrograms {
     public static void main(String[] args){

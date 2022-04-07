@@ -1,6 +1,4 @@
-package Interview;
-
-import java.util.Date;
+package PracticeProgramsForReference.Interview;
 
 public class TestClass {
 

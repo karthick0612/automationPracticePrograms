@@ -1,9 +1,4 @@
-package HackerRank;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+package PracticeProgramsForReference.HackerRank;
 
 public class JavaInttoString {
     public static void main(String[] args){

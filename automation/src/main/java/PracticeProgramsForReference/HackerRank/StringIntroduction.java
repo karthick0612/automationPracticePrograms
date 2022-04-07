@@ -1,4 +1,4 @@
-package HackerRank;
+package PracticeProgramsForReference.HackerRank;
 
 public class StringIntroduction {
 

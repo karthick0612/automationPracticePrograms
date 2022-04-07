@@ -1,4 +1,4 @@
-package integerArrayPrograms;
+package PracticeProgramsForReference.integerArrayPrograms;
 
 public class IntArraySort {
     public static void main(String[] args){
