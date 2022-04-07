@@ -1,4 +1,4 @@
-package HackerRank;
+package PracticeProgramsForReference.HackerRank;
 
 import java.text.NumberFormat;
 import java.util.Locale;

@@ -1,3 +1,5 @@
+package PracticeProgramsForReference;
+
 public class stringReverse {
     public  static void main(String[] args){
         String str = "Prashant Dilip Sawale";
